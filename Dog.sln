@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogTests", "DogTests\DogTests.csproj", "{29ADDB98-16A7-4493-98BF-BF69B26A0393}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DogConsole", "DogConsole\DogConsole.csproj", "{717E91F8-E335-47BF-972A-D6364A787C5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dog", "Dog\Dog.csproj", "{33ED15C5-C4BD-4FB7-B82D-869DAF21904A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29ADDB98-16A7-4493-98BF-BF69B26A0393}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29ADDB98-16A7-4493-98BF-BF69B26A0393}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29ADDB98-16A7-4493-98BF-BF69B26A0393}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29ADDB98-16A7-4493-98BF-BF69B26A0393}.Release|Any CPU.Build.0 = Release|Any CPU
+		{717E91F8-E335-47BF-972A-D6364A787C5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{717E91F8-E335-47BF-972A-D6364A787C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{717E91F8-E335-47BF-972A-D6364A787C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{717E91F8-E335-47BF-972A-D6364A787C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33ED15C5-C4BD-4FB7-B82D-869DAF21904A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33ED15C5-C4BD-4FB7-B82D-869DAF21904A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33ED15C5-C4BD-4FB7-B82D-869DAF21904A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33ED15C5-C4BD-4FB7-B82D-869DAF21904A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D78E76F1-CC17-4819-89C3-8463E0F8BCFB}
+	EndGlobalSection
+EndGlobal
